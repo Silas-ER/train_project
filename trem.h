@@ -1,5 +1,5 @@
-#ifndef TRILHOS_H
-#define TRILHOS_H
+#ifndef TREM_H
+#define TREM_H
 
 #include <QThread>
 #include "semaphore.h"
@@ -26,4 +26,4 @@ private:
    int velocidade;
 };
 
-#endif // TRILHOS_H
+#endif // TREM_H

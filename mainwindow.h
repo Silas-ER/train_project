@@ -2,7 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include "trilhos.h"
+#include "trem.h"
 
 //acesso a inteface principal
 namespace Ui {

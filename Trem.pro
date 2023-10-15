@@ -8,15 +8,15 @@ QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = Trilhos
+TARGET = trem
 TEMPLATE = app
 
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-        trilhos.cpp
+        trem.cpp
 
 HEADERS  += mainwindow.h \
-    trilhos.h
+    trem.h
 
 FORMS    += mainwindow.ui
